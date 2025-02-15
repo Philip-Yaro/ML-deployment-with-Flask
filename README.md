@@ -21,7 +21,6 @@ This is a simple web application built using **Flask** and **Machine Learning** 
 
 ---
 
-## 🧩 Folder Structure
 
 Contributions are welcome! Fork this repository and create a pull request.
 
